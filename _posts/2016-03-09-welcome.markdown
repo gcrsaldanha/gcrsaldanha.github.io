@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-12-28 23:12:15 -0800
+categories: general
+---
+Hi! This website does not have any specific purpose.
+
+For now, I'll use it to upload college works, personal projects, etc.
+
+Feel free to leave feedbacks about any project you like or not.
+
+That's all! =)
