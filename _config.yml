@@ -13,6 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gcrsaldanha.github.io" # the base hostname & protocol for your site
 twitter_username: gcrsaldanha
 github_username: gcrsaldanha
-
+# Not working yeat
+excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
+

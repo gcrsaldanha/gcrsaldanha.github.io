@@ -14,7 +14,8 @@ layout: default
         <h4>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h4>
-        {{ post.excerpt }}
+        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+        [...]
       </li>
     {% endfor %}
   </ul>
