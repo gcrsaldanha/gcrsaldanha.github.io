@@ -141,10 +141,16 @@ collections:
 Create folder: `_mycollection/`
 Add files to it :)
 
-Available at `{{ site.mycollection }}`
+Make each collection output a page:
+```yaml
+collections:
+  mycollection:
+    output: true
+```
 
 ```html
 {% for file in site.mycollection %}
+  {{ file.url }} <!-- if output: true -->
   {{ file.custom_variable }}
   {{ file.content | markdownify }}  <!-- content is special variable, markdown filter -->
 {% endfor %}
