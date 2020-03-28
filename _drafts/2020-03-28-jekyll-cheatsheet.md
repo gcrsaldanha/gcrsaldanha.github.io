@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-12-28 23:12:15 -0800
+published: true
+categories: jekyll cheatsheet
+---
 # Jekyll Cheatsheet/Guide
 
 
