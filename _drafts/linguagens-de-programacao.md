@@ -1,0 +1,1 @@
+Compilaćão, interpretaćão, dinâmica x estática, fortemente x fracamente tipada, AST
