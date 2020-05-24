@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Whops!
+* [LinkedIn](https://www.linkedin.com/in/gcrsaldanha/?locale=en_US)

@@ -3,5 +3,6 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .idea
+.jekyll-cache
 
 **/.DS_Store
